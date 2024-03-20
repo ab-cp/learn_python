@@ -1,0 +1,3 @@
+[submodule "external/graph-algorithms"]
+	path = external/graph-algorithms
+	url = https://resources.oreilly.com/live-training/graph-data-structures-and-algorithms-from-scratch.git
