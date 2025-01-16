@@ -1,3 +1,6 @@
 [submodule "external/graph-algorithms"]
 	path = external/graph-algorithms
 	url = https://resources.oreilly.com/live-training/graph-data-structures-and-algorithms-from-scratch.git
+[submodule "external/ML-foundations.git"]
+	path = external/ML-foundations.git
+	url = git@github.com:jonkrohn/ML-foundations.git
